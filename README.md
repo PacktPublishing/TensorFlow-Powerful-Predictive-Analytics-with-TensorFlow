@@ -36,7 +36,6 @@ import numpy as np
 **Following is what you need for this book:**
 This book is aimed at developers, data analysts, machine learning practitioners, and deep learning enthusiasts who want to build powerful, robust, and accurate predictive models with the power of TensorFlow.
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it]().
 
 ## Get to Know the Author
 **Md. Rezaul Karim**
