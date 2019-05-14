@@ -1,6 +1,6 @@
-# 
+# TensorFlow: Powerful Predictive Analytics with TensorFlow	
 
-<a href="https://prod.packtpub.com/in/big-data-and-business-intelligence/tensorflow-powerful-predictive-analytics-tensorflow?utm_source=github&utm_medium=repository&utm_campaign="><img src="https://prod.packtpub.com/in/big-data-and-business-intelligence/tensorflow-powerful-predictive-analytics-tensorflow" alt="" height="256px" align="right"></a>
+<a href="https://prod.packtpub.com/in/big-data-and-business-intelligence/tensorflow-powerful-predictive-analytics-tensorflow?utm_source=github&utm_medium=repository&utm_campaign="><img src="https://prod.packtpub.com/media/catalog/product/cache/ecd051e9670bd57df35c8f0b122d8aea/c/o/cover_10473.png" alt="" height="256px" align="right"></a>
 
 This is the code repository for [TensorFlow: Powerful Predictive Analytics with TensorFlow	](https://prod.packtpub.com/in/big-data-and-business-intelligence/tensorflow-powerful-predictive-analytics-tensorflow?utm_source=github&utm_medium=repository&utm_campaign=), published by Packt.
 
