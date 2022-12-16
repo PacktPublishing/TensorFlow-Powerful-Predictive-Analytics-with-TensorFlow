@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781789136913)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 # TensorFlow: Powerful Predictive Analytics with TensorFlow	
 
 <a href="https://prod.packtpub.com/in/big-data-and-business-intelligence/tensorflow-powerful-predictive-analytics-tensorflow?utm_source=github&utm_medium=repository&utm_campaign="><img src="https://prod.packtpub.com/media/catalog/product/cache/ecd051e9670bd57df35c8f0b122d8aea/c/o/cover_10473.png" alt="" height="256px" align="right"></a>
